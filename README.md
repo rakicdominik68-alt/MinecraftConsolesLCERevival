@@ -42,3 +42,5 @@ Windows users can download our [Nightly Build!](https://gofile.io/d/1srg82XN) Si
 - Fixed various security issues present in the original codebase
 - Splitscreen Multiplayer support (connect to dedicated servers, etc)
 - In-game server management (Add Server button, etc)
+
+# Controls (Keyboard & Mouse)
