@@ -1,7 +1,7 @@
 <img width="1920" height="669" alt="image" src="https://github.com/user-attachments/assets/1a29316a-dc58-4e43-9404-74b12b924012" />
 
 # MinecraftConsoles (Legacy Console Edition)
-Discord https://discord.gg/DjeeGtvX
+[Discord](https://discord.gg/94tHhFgBNz)
 
 This project is based on source code of Minecraft Legacy Console Edition v1.6.0560.0 (TU19) with some fixes and improvements applied.
 
