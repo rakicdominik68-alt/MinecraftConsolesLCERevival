@@ -19,6 +19,7 @@ If you're looking for Dedicated Server software, download its Nightly Build here
 # Download
 
 ## Client
+Windows users can download our [Nightly Build!](https://gofile.io/d/1srg82XN) Simply download the .zip file and extract it to a folder where you'd like to keep the game. You can set your username in username.txt (you'll have to make this file)
 
 # Platform Support
 - Windows: Supported for building and running the project
