@@ -66,3 +66,4 @@ Windows users can download our [Nightly Build!](https://gofile.io/d/1srg82XN) Si
 - Toggle Debug Console: F6
 
 # Contributors
+Would you like to contribute to this project? Please read our [Contributor's Guide](https://discord.gg/94tHhFgBNz) before doing so! This document includes our current goals, standards for inclusions, rules, and more.
