@@ -64,3 +64,5 @@ Windows users can download our [Nightly Build!](https://gofile.io/d/1srg82XN) Si
 - Toggle Debug Info: F3
 - Open Debug Overlay: F4
 - Toggle Debug Console: F6
+
+# Contributors
