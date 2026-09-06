@@ -16,6 +16,8 @@ Server
 
 If you're looking for Dedicated Server software, download its Nightly Build here. Similar instructions to the client more or less, though see further down in this README for more info on that.
 
+# Download
+
 # Platform Support
 - Windows: Supported for building and running the project
 - macOS / Linux: The Windows nightly build will run through Wine or CrossOver based on community reports, but this is unofficial and not currently tested by the maintainers when pushing updates
