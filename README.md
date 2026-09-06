@@ -24,3 +24,16 @@ If you're looking for Dedicated Server software, download its Nightly Build here
 - All Consoles: Console support remains in the code, but maintainers are not currently verifying console functionality / porting UI Changes to the console builds at this time.
 
 # Features
+- Dedicated Server Software (Minecraft.Server.exe)
+- Fixed compilation and execution in both Debug and Release mode on Windows using Visual Studio 2022
+- Added support for keyboard and mouse input
+- Added fullscreen mode support (toggle using F11)
+- (WIP) Disabled V-Sync for better performance
+- Added a high-resolution timer path on Windows for smoother high-FPS gameplay timing
+- Device's screen resolution will be used as the game resolution instead of using a fixed resolution (1920x1080)
+- LAN Multiplayer & Discovery
+- Added persistent username system via username.txt
+- Decoupled usernames and UIDs to allow username changes
+- Fixed various security issues present in the original codebase
+- Splitscreen Multiplayer support (connect to dedicated servers, etc)
+- In-game server management (Add Server button, etc)
