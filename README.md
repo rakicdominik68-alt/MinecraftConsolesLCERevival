@@ -15,3 +15,5 @@ Windows users can download our Nightly Build! Simply download the .zip file and 
 Server
 
 If you're looking for Dedicated Server software, download its Nightly Build here. Similar instructions to the client more or less, though see further down in this README for more info on that.
+
+# Platform Support
